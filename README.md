@@ -5,8 +5,8 @@
 
 ## 📺 完整作品视频
 
-**视频文件(125MB)在本仓库的 [Releases](../../releases) 页面下载**
-(超过 GitHub 100MB 单文件限制,作为 Release 附件发布)
+**视频直链:[wolf_liaozhai_inkwash_1080P.mp4](https://github.com/MusicianSteven/liaozhai-wolf-ai-film/releases/download/v1.0/wolf_liaozhai_inkwash_1080P.mp4)**
+(125MB 超过 GitHub 100MB 单文件限制,作为 [Release v1.0](https://github.com/MusicianSteven/liaozhai-wolf-ai-film/releases/tag/v1.0) 附件发布)
 
 ## 📄 提交材料
 
