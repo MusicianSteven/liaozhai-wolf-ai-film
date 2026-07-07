@@ -1,0 +1,64 @@
+[20:10:39] 提交任务 [happyhorse-1.1-r2v] (duration=8s, res=1080P, neg=255chars, refs=4)
+[20:10:50]   request_id = 189081d1-456d-47dd-a1a2-e0f8cec70cba, 初始状态 = queued
+[20:10:51]   状态: queued
+[20:11:01]   状态: processing
+[20:11:12]   状态: processing
+[20:11:23]   状态: processing
+[20:11:33]   状态: processing
+[20:11:44]   状态: processing
+[20:11:55]   状态: processing
+[20:12:06]   状态: processing
+[20:12:16]   状态: processing
+[20:12:28]   状态: processing
+[20:12:39]   状态: processing
+[20:12:51]   状态: processing
+[20:13:03]   状态: processing
+[20:13:14]   状态: processing
+[20:13:24]   状态: processing
+[20:13:35]   状态: processing
+[20:13:46]   状态: processing
+[20:13:57]   状态: processing
+[20:14:08]   状态: processing
+[20:14:19]   状态: processing
+[20:14:30]   状态: processing
+[20:14:42]   状态: processing
+[20:14:53]   状态: processing
+[20:15:04]   状态: processing
+[20:15:16]   状态: processing
+[20:15:27]   状态: processing
+[20:15:39]   状态: processing
+[20:15:50]   状态: processing
+[20:16:00]   状态: processing
+[20:16:11]   状态: processing
+[20:16:23]   状态: processing
+[20:16:34]   状态: processing
+[20:16:45]   状态: processing
+[20:16:57]   状态: processing
+[20:17:08]   状态: processing
+[20:17:19]   状态: processing
+[20:17:30]   状态: processing
+[20:17:41]   状态: processing
+[20:17:52]   状态: processing
+[20:18:03]   状态: processing
+[20:18:14]   状态: processing
+[20:18:26]   状态: processing
+[20:18:37]   状态: processing
+[20:18:48]   状态: processing
+[20:19:00]   状态: processing
+[20:19:10]   状态: processing
+[20:19:22]   状态: processing
+[20:19:34]   状态: processing
+[20:19:45]   状态: processing
+[20:19:57]   状态: processing
+[20:20:09]   状态: processing
+[20:20:19]   状态: processing
+[20:20:30]   状态: processing
+[20:20:42]   状态: processing
+[20:20:52]   状态: processing
+[20:21:03]   状态: processing
+[20:21:14]   状态: processing
+[20:21:24]   状态: success
+[20:21:24] 下载到 /Users/stevensmac/GMI Wolf/output/wave2/S02_tail_v3.mp4
+[20:21:25]   完成 (6.97 MB)
+[20:21:25] 尾帧已保存: /Users/stevensmac/GMI Wolf/output/wave2/frames/S02_tail_v3_last.png
+[20:21:25] 耗时 646s

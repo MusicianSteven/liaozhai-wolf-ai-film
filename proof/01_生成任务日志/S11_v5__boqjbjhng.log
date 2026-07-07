@@ -1,0 +1,43 @@
+[00:24:35] 提交任务 [happyhorse-1.1-i2v] (duration=12s, res=1080P, neg=331chars, first_frame=base64)
+[00:24:47]   request_id = 6d06bb8e-e741-4cd7-a96e-bc9b7cf12a30, 初始状态 = queued
+[00:24:49]   状态: queued
+[00:25:02]   状态: processing
+[00:25:14]   状态: processing
+[00:25:24]   状态: processing
+[00:25:36]   状态: processing
+[00:25:49]   状态: processing
+[00:26:01]   状态: processing
+[00:26:14]   状态: processing
+[00:26:24]   状态: processing
+[00:26:35]   状态: processing
+[00:26:46]   状态: processing
+[00:26:59]   状态: processing
+[00:27:11]   状态: processing
+[00:27:23]   状态: processing
+[00:27:35]   状态: processing
+[00:27:46]   状态: processing
+[00:27:56]   状态: processing
+[00:28:07]   状态: processing
+[00:28:18]   状态: processing
+[00:28:31]   状态: processing
+[00:28:42]   状态: processing
+[00:28:53]   状态: processing
+[00:29:04]   状态: processing
+[00:29:15]   状态: processing
+[00:29:27]   状态: processing
+[00:29:38]   状态: processing
+[00:29:49]   状态: processing
+[00:30:01]   状态: processing
+[00:30:12]   状态: processing
+[00:30:23]   状态: processing
+[00:30:39]   状态: processing
+[00:30:52]   状态: processing
+[00:31:04]   状态: processing
+[00:31:15]   状态: processing
+[00:31:27]   状态: processing
+[00:31:40]   状态: processing
+[00:31:51]   状态: success
+[00:31:51] 下载到 /Users/stevensmac/GMI Wolf/output/wave2/S11_v5.mp4
+[00:31:51]   完成 (9.91 MB)
+[00:31:52] 尾帧已保存: /Users/stevensmac/GMI Wolf/output/wave2/frames/S11_v5_last.png
+[00:31:52] 耗时 436s

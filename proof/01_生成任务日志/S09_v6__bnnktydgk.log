@@ -1,0 +1,59 @@
+[23:54:52] 提交任务 [happyhorse-1.1-i2v] (duration=12s, res=1080P, neg=434chars, first_frame=base64)
+[23:55:06]   request_id = 8c148c48-d178-4c7b-a614-4727c56d371e, 初始状态 = queued
+[23:55:06]   状态: queued
+[23:55:18]   状态: processing
+[23:55:29]   状态: processing
+[23:55:40]   状态: processing
+[23:55:51]   状态: processing
+[23:56:03]   状态: processing
+[23:56:16]   状态: processing
+[23:56:27]   状态: processing
+[23:56:39]   状态: processing
+[23:56:50]   状态: processing
+[23:57:01]   状态: processing
+[23:57:12]   状态: processing
+[23:57:23]   状态: processing
+[23:57:34]   状态: processing
+[23:57:46]   状态: processing
+[23:57:58]   状态: processing
+[23:58:09]   状态: processing
+[23:58:20]   状态: processing
+[23:58:32]   状态: processing
+[23:58:44]   状态: processing
+[23:58:55]   状态: processing
+[23:59:06]   状态: processing
+[23:59:18]   状态: processing
+[23:59:30]   状态: processing
+[23:59:43]   状态: processing
+[23:59:54]   状态: processing
+[00:00:05]   状态: processing
+[00:00:17]   状态: processing
+[00:00:28]   状态: processing
+[00:00:40]   状态: processing
+[00:00:51]   状态: processing
+[00:01:03]   状态: processing
+[00:01:16]   状态: processing
+[00:01:27]   状态: processing
+[00:01:39]   状态: processing
+[00:01:51]   状态: processing
+[00:02:02]   状态: processing
+[00:02:13]   状态: processing
+[00:02:25]   状态: processing
+[00:02:37]   状态: processing
+[00:02:48]   状态: processing
+[00:03:01]   状态: processing
+[00:03:13]   状态: processing
+[00:03:24]   状态: processing
+[00:03:36]   状态: processing
+[00:03:47]   状态: processing
+[00:04:00]   状态: processing
+[00:04:11]   状态: processing
+[00:04:23]   状态: processing
+[00:04:34]   状态: processing
+[00:04:46]   状态: processing
+[00:04:57]   状态: processing
+[00:05:08]   状态: success
+[00:05:08] 下载到 /Users/stevensmac/GMI Wolf/output/wave2/S09_v6.mp4
+[00:05:08]   完成 (6.33 MB)
+[00:05:09] 尾帧已保存: /Users/stevensmac/GMI Wolf/output/wave2/frames/S09_v6_last.png
+[00:05:09] 耗时 616s

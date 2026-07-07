@@ -1,0 +1,28 @@
+saved
+[19:56:26] 提交任务 [happyhorse-1.1-r2v] (duration=10s, res=1080P, neg=236chars, refs=4)
+[19:56:35]   request_id = 01fb02f0-479f-4528-81b8-950b7a18cbeb, 初始状态 = queued
+[19:56:37]   状态: queued
+[19:56:48]   状态: processing
+[19:56:58]   状态: processing
+[19:57:10]   状态: processing
+[19:57:21]   状态: processing
+[19:57:32]   状态: processing
+[19:57:44]   状态: processing
+[19:57:55]   状态: processing
+[19:58:07]   状态: processing
+[19:58:19]   状态: processing
+[19:58:30]   状态: processing
+[19:58:41]   状态: processing
+[19:58:52]   状态: processing
+[19:59:03]   状态: processing
+[19:59:13]   状态: processing
+[19:59:24]   状态: processing
+[19:59:35]   状态: processing
+[19:59:47]   状态: processing
+[19:59:58]   状态: processing
+[20:00:10]   状态: processing
+[20:00:21]   状态: success
+[20:00:21] 下载到 output/wave2/S02_tail_r2v.mp4
+[20:00:21]   完成 (8.21 MB)
+[20:00:22] 尾帧已保存: output/wave2/frames/S02_tail_r2v_last.png
+[20:00:22] 耗时 235s

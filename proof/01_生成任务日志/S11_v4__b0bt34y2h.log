@@ -1,0 +1,36 @@
+[00:13:15] 提交任务 [happyhorse-1.1-i2v] (duration=12s, res=1080P, neg=290chars, first_frame=base64)
+[00:13:28]   request_id = c28b05a5-3b57-4281-9653-ed2c629a7fa5, 初始状态 = queued
+[00:13:30]   状态: queued
+[00:13:42]   状态: processing
+[00:13:53]   状态: processing
+[00:14:04]   状态: processing
+[00:14:15]   状态: processing
+[00:14:26]   状态: processing
+[00:14:38]   状态: processing
+[00:14:52]   状态: processing
+[00:15:04]   状态: processing
+[00:15:17]   状态: processing
+[00:15:29]   状态: processing
+[00:15:42]   状态: processing
+[00:15:54]   状态: processing
+[00:16:05]   状态: processing
+[00:16:17]   状态: processing
+[00:16:29]   状态: processing
+[00:16:40]   状态: processing
+[00:16:51]   状态: processing
+[00:17:02]   状态: processing
+[00:17:13]   状态: processing
+[00:17:25]   状态: processing
+[00:17:37]   状态: processing
+[00:17:49]   状态: processing
+[00:18:02]   状态: processing
+[00:18:15]   状态: processing
+[00:18:27]   状态: processing
+[00:18:38]   状态: processing
+[00:18:51]   状态: processing
+[00:19:05]   状态: processing
+[00:19:19]   状态: success
+[00:19:19] 下载到 /Users/stevensmac/GMI Wolf/output/wave2/S11_v4.mp4
+[00:19:20]   完成 (9.53 MB)
+[00:19:20] 尾帧已保存: /Users/stevensmac/GMI Wolf/output/wave2/frames/S11_v4_last.png
+[00:19:20] 耗时 365s

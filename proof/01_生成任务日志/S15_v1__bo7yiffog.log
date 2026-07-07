@@ -1,0 +1,64 @@
+[01:20:38] 提交任务 [happyhorse-1.1-r2v] (duration=15s, res=1080P, neg=249chars, refs=3)
+[01:20:39]   request_id = d8f1bf6e-571c-4e45-a260-9dd8496b19a5, 初始状态 = queued
+[01:20:39]   状态: queued
+[01:20:49]   状态: processing
+[01:21:00]   状态: processing
+[01:21:10]   状态: processing
+[01:21:20]   状态: processing
+[01:21:30]   状态: processing
+[01:21:40]   状态: processing
+[01:21:51]   状态: processing
+[01:22:01]   状态: processing
+[01:22:11]   状态: processing
+[01:22:21]   状态: processing
+[01:22:31]   状态: processing
+[01:22:42]   状态: processing
+[01:22:52]   状态: processing
+[01:23:02]   状态: processing
+[01:23:12]   状态: processing
+[01:23:22]   状态: processing
+[01:23:33]   状态: processing
+[01:23:43]   状态: processing
+[01:23:53]   状态: processing
+[01:24:03]   状态: processing
+[01:24:13]   状态: processing
+[01:24:24]   状态: processing
+[01:24:34]   状态: processing
+[01:24:44]   状态: processing
+[01:24:54]   状态: processing
+[01:25:04]   状态: processing
+[01:25:15]   状态: processing
+[01:25:25]   状态: processing
+[01:25:35]   状态: processing
+[01:25:45]   状态: processing
+[01:25:56]   状态: processing
+[01:26:06]   状态: processing
+[01:26:16]   状态: processing
+[01:26:26]   状态: processing
+[01:26:36]   状态: processing
+[01:26:47]   状态: processing
+[01:26:57]   状态: processing
+[01:27:07]   状态: processing
+[01:27:17]   状态: processing
+[01:27:27]   状态: processing
+[01:27:38]   状态: processing
+[01:27:48]   状态: processing
+[01:27:58]   状态: processing
+[01:28:08]   状态: processing
+[01:28:19]   状态: processing
+[01:28:29]   状态: processing
+[01:28:39]   状态: processing
+[01:28:49]   状态: processing
+[01:28:59]   状态: processing
+[01:29:10]   状态: success
+[01:29:10] 下载到 /Users/stevensmac/GMI Wolf/output/wave2/S15_v1.mp4
+[01:29:10]   完成 (7.64 MB)
+[01:29:10] ERROR: 抽尾帧失败: lt)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.3.100 png
+frame=    0 fps=0.0 q=0.0 size=       0kB time=-577014:32:22.77 bitrate=  -0.0kbits/s speed=N/A    frame=    0 fps=0.0 q=0.0 Lsize=N/A time=-577014:32:22.77 bitrate=N/A speed=N/A    
+video:0kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+Output file is empty, nothing was encoded (check -ss / -t / -frames parameters if used)
+

@@ -1,0 +1,51 @@
+knife lock added
+[01:18:28] 提交任务 [happyhorse-1.1-r2v] (duration=10s, res=1080P, neg=352chars, refs=4)
+[01:18:29]   request_id = 280c67fc-f2e2-4c7a-9887-9dac52c21abe, 初始状态 = queued
+[01:18:29]   状态: queued
+[01:18:40]   状态: processing
+[01:18:50]   状态: processing
+[01:19:00]   状态: processing
+[01:19:10]   状态: processing
+[01:19:20]   状态: processing
+[01:19:31]   状态: processing
+[01:19:41]   状态: processing
+[01:19:51]   状态: processing
+[01:20:01]   状态: processing
+[01:20:12]   状态: processing
+[01:20:22]   状态: processing
+[01:20:32]   状态: processing
+[01:20:42]   状态: processing
+[01:20:52]   状态: processing
+[01:21:03]   状态: processing
+[01:21:13]   状态: processing
+[01:21:23]   状态: processing
+[01:21:33]   状态: processing
+[01:21:43]   状态: processing
+[01:21:54]   状态: processing
+[01:22:04]   状态: processing
+[01:22:14]   状态: processing
+[01:22:24]   状态: processing
+[01:22:35]   状态: processing
+[01:22:45]   状态: processing
+[01:22:55]   状态: processing
+[01:23:05]   状态: processing
+[01:23:15]   状态: processing
+[01:23:26]   状态: processing
+[01:23:36]   状态: processing
+[01:23:46]   状态: processing
+[01:23:56]   状态: processing
+[01:24:06]   状态: processing
+[01:24:17]   状态: processing
+[01:24:27]   状态: processing
+[01:24:37]   状态: processing
+[01:24:47]   状态: processing
+[01:24:57]   状态: processing
+[01:25:08]   状态: processing
+[01:25:18]   状态: processing
+[01:25:28]   状态: processing
+[01:25:38]   状态: processing
+[01:25:48]   状态: success
+[01:25:48] 下载到 /Users/stevensmac/GMI Wolf/output/wave2/S14_v2.mp4
+[01:25:49]   完成 (7.41 MB)
+[01:25:50] 尾帧已保存: /Users/stevensmac/GMI Wolf/output/wave2/frames/S14_v2_last.png
+[01:25:50] 耗时 441s

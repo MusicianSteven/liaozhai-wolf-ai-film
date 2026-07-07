@@ -1,0 +1,162 @@
+HappyHorse 1.1 生成任务记录总览(自动汇总自任务日志)
+======================================================================
+
+● S00_v1  [S00_v1__b4d6pajia.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=8s, res=1080P, neg=148chars, first_frame=base64
+   request_id: 6d767ee0-989e-4128-ad16-0c16d108cbb5
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S00_v1.mp4 (4.97 MB)
+
+● S02_cont  [S02_cont__b0fpc4yy0.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=10s, res=1080P, neg=216chars, first_frame=base64
+   request_id: 3077bb51-620d-41bf-bd51-c3e783d7c98d
+   产出: output/wave2/S02_cont.mp4 (6.79 MB)
+
+● S02_tail_r2v  [S02_tail_r2v__b9yvtbp06.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=10s, res=1080P, neg=236chars, refs=4
+   request_id: 01fb02f0-479f-4528-81b8-950b7a18cbeb
+   产出: output/wave2/S02_tail_r2v.mp4 (8.21 MB)
+
+● S02_tail_v3  [S02_tail_v3__bo7riu6sf.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=8s, res=1080P, neg=255chars, refs=4
+   request_id: 189081d1-456d-47dd-a1a2-e0f8cec70cba
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S02_tail_v3.mp4 (6.97 MB)
+
+● S02_v2_take2  [S02_v2_take2__bj0pl0t54.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=12s, res=1080P, neg=219chars, refs=3
+   request_id: 45c70158-3adc-46dc-9094-82970c78f2fa
+   产出: output/wave2/S02_v2_take2.mp4 (8.32 MB)
+
+● S03_v1  [S03_v1__boh4p0jrg.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=12s, res=1080P, neg=286chars, refs=4
+   request_id: f20194f6-232c-4a95-88f6-b5e44df2555f
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S03_v1.mp4 (9.98 MB)
+
+● S04_v1  [S04_v1__bdaxa607w.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=12s, res=1080P, neg=341chars, refs=3
+   request_id: a46a8cd1-5bb7-406f-a4e3-da4f2d46abf0
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S04_v1.mp4 (13.76 MB)
+
+● S04_v2  [S04_v2__bcmjx7zv8.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=12s, res=1080P, neg=384chars, refs=3
+   request_id: 8e6402eb-6b20-4932-a897-7c5cc96a5d3c
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S04_v2.mp4 (12.71 MB)
+
+● S05_v2  [S05_v2__b8yq1r22k.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=10s, res=1080P, neg=266chars, refs=3
+   request_id: 39975a82-6a12-4511-a6a7-d0f763c23538
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S05_v2.mp4 (11.78 MB)
+
+● S05_v3  [S05_v3__bx3pl8x8i.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=10s, res=1080P, neg=288chars, refs=3
+   request_id: bb4e7d52-ff5e-4d70-a72c-e559e3b0c338
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S05_v3.mp4 (12.78 MB)
+
+● S06_v2  [S06_v2__bwbxvr03l.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=10s, res=1080P, neg=182chars, refs=2
+   request_id: edf6472d-460c-4a37-9a84-434c6d6a2fcf
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S06_v2.mp4 (9.71 MB)
+
+● S07_v2  [S07_v2__bgo8cn71e.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=12s, res=1080P, neg=303chars, refs=5
+   request_id: 1b463b9d-c0f5-4e86-9fa2-a590ce358be3
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S07_v2.mp4 (12.72 MB)
+
+● S07_v3  [S07_v3__btaizlmzl.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=12s, res=1080P, neg=361chars, refs=5
+   request_id: 642d2182-ed96-462a-980e-b86d2d3e9500
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S07_v3.mp4 (12.50 MB)
+
+● S07_v4  [S07_v4__bv4kzoboq.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=12s, res=1080P, neg=403chars, refs=5
+   request_id: b19e396d-d516-4a55-a33a-93161382e2e1
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S07_v4.mp4 (12.04 MB)
+
+● S08_v1  [S08_v1__bfb31xxwx.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=10s, res=1080P, neg=297chars, first_frame=base64
+   request_id: 8ae5ae86-031f-47e4-a4e6-7fa87386b159
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S08_v1.mp4 (4.64 MB)
+
+● S09_probe_v2  [S09_probe_v2__bd4hpu9ak.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=12s, res=1080P, neg=170chars, refs=4
+   request_id: e7acdd86-edf8-42fe-8ce5-326fc3242ad1
+   产出: output/probes/S09_probe_v2.mp4 (4.99 MB)
+
+● S09_probe_v4  [S09_probe_v4__bs0bck462.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=12s, res=1080P, neg=198chars, first_frame=url
+   request_id: 5f31421c-1f26-4171-8a4f-10c57336c830
+   产出: output/probes/S09_probe_v4.mp4 (8.55 MB)
+
+● S09_v5  [S09_v5__bh1e7ifi9.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=12s, res=1080P, neg=365chars, first_frame=base64
+   request_id: 8b1b8201-7e13-4781-9400-836afb31f675
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S09_v5.mp4 (5.12 MB)
+
+● S09_v6  [S09_v6__bnnktydgk.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=12s, res=1080P, neg=434chars, first_frame=base64
+   request_id: 8c148c48-d178-4c7b-a614-4727c56d371e
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S09_v6.mp4 (6.33 MB)
+
+● S10_v1  [S10_v1__bbyquougj.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=12s, res=1080P, neg=226chars, first_frame=base64
+   request_id: 6a439266-fb66-4e7c-8e9a-f03225beef6d
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S10_v1.mp4 (4.63 MB)
+
+● S11_probe  [S11_probe__b8rpv6awi.log]
+   产出: /Users/stevensmac/GMI Wolf/output/probes/S11_probe.mp4 (6.93 MB)
+
+● S11_probe_v2  [S11_probe_v2__biuc7oz92.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=12s, res=1080P, neg=179chars, refs=4
+   request_id: 340cc538-2f8e-4cf5-956b-cb4d82ab98d0
+   产出: output/probes/S11_probe_v2.mp4 (11.45 MB)
+
+● S11_probe_v3  [S11_probe_v3__burkfnmhl.log]
+   产出: output/probes/S11_probe_v3.mp4 (9.64 MB)
+
+● S11_v4  [S11_v4__b0bt34y2h.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=12s, res=1080P, neg=290chars, first_frame=base64
+   request_id: c28b05a5-3b57-4281-9653-ed2c629a7fa5
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S11_v4.mp4 (9.53 MB)
+
+● S11_v5  [S11_v5__boqjbjhng.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=12s, res=1080P, neg=331chars, first_frame=base64
+   request_id: 6d06bb8e-e741-4cd7-a96e-bc9b7cf12a30
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S11_v5.mp4 (9.91 MB)
+
+● S11_v6  [S11_v6__br3wezokn.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=10s, res=1080P, neg=369chars, first_frame=base64
+   request_id: 9ca89e42-4a2c-493a-a597-02c11f3a066a
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S11_v6.mp4 (6.84 MB)
+
+● S12_v1  [S12_v1__bysnotrof.log]
+   request_id: b561b0f9-a30a-4eeb-94c7-fafa6afd60c0
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S12_v1.mp4 (7.28 MB)
+
+● S12_v2  [S12_v2__bsmqukv3u.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=8s, res=1080P, neg=325chars, first_frame=base64
+   request_id: cad4fe41-3876-485b-889e-142ead0c7493
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S12_v2.mp4 (7.58 MB)
+
+● S12_v3  [S12_v3__b9a23fbgw.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=6s, res=1080P, neg=350chars, first_frame=base64
+   request_id: bbe3a11b-ec00-4ef5-8d47-d1009c4d437f
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S12_v3.mp4 (4.18 MB)
+
+● S13_v1  [S13_v1__b3h27xaah.log]
+   模型/模式: happyhorse-1.1-i2v   参数: duration=8s, res=1080P, neg=304chars, first_frame=base64
+   request_id: c0ec017b-7363-4982-a2fe-343f2d229309
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S13_v1.mp4 (4.69 MB)
+
+● S14_v1  [S14_v1__blbgdk918.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=10s, res=1080P, neg=284chars, refs=4
+   request_id: 31161603-b4b8-40e1-b857-94ab540a28d5
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S14_v1.mp4 (7.01 MB)
+
+● S14_v2  [S14_v2__b6h5yur4w.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=10s, res=1080P, neg=352chars, refs=4
+   request_id: 280c67fc-f2e2-4c7a-9887-9dac52c21abe
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S14_v2.mp4 (7.41 MB)
+
+● S15_v1  [S15_v1__bo7yiffog.log]
+   模型/模式: happyhorse-1.1-r2v   参数: duration=15s, res=1080P, neg=249chars, refs=3
+   request_id: d8f1bf6e-571c-4e45-a260-9dd8496b19a5
+   产出: /Users/stevensmac/GMI Wolf/output/wave2/S15_v1.mp4 (7.64 MB)

@@ -1,0 +1,28 @@
+[S01_probe] 提交...
+[S09_probe] 提交...
+[S11_probe] 提交...
+[S11_probe] OK
+--- stdout tail ---
+[16:18:44]   状态: processing
+[16:18:55]   状态: success
+[16:18:55] 下载到 /Users/stevensmac/GMI Wolf/output/probes/S11_probe.mp4
+[16:18:55]   完成 (6.93 MB)
+[16:18:56] 尾帧已保存: /Users/stevensmac/GMI Wolf/output/probes/frames/S11_probe_last.png
+[16:18:56] 耗时 237s
+[S01_probe] OK
+--- stdout tail ---
+[16:19:05]   状态: processing
+[16:19:15]   状态: success
+[16:19:15] 下载到 /Users/stevensmac/GMI Wolf/output/probes/S01_probe.mp4
+[16:19:16]   完成 (9.55 MB)
+[16:19:16] 尾帧已保存: /Users/stevensmac/GMI Wolf/output/probes/frames/S01_probe_last.png
+[16:19:16] 耗时 257s
+[S09_probe] OK
+--- stdout tail ---
+[16:24:54]   状态: processing
+[16:25:04]   状态: success
+[16:25:04] 下载到 /Users/stevensmac/GMI Wolf/output/probes/S09_probe.mp4
+[16:25:04]   完成 (5.02 MB)
+[16:25:05] 尾帧已保存: /Users/stevensmac/GMI Wolf/output/probes/frames/S09_probe_last.png
+[16:25:05] 耗时 606s
+全部探针完成

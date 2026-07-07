@@ -1,0 +1,33 @@
+[21:49:10] 提交任务 [happyhorse-1.1-r2v] (duration=10s, res=1080P, neg=182chars, refs=2)
+[21:49:11]   request_id = edf6472d-460c-4a37-9a84-434c6d6a2fcf, 初始状态 = queued
+[21:49:12]   状态: queued
+[21:49:22]   状态: processing
+[21:49:32]   状态: processing
+[21:49:42]   状态: processing
+[21:49:52]   状态: processing
+[21:50:03]   状态: processing
+[21:50:13]   状态: processing
+[21:50:23]   状态: processing
+[21:50:33]   状态: processing
+[21:50:43]   状态: processing
+[21:50:54]   状态: processing
+[21:51:04]   状态: processing
+[21:51:14]   状态: processing
+[21:51:24]   状态: processing
+[21:51:34]   状态: processing
+[21:51:45]   状态: processing
+[21:51:55]   状态: processing
+[21:52:05]   状态: processing
+[21:52:15]   状态: processing
+[21:52:26]   状态: processing
+[21:52:36]   状态: processing
+[21:52:46]   状态: processing
+[21:52:56]   状态: processing
+[21:53:06]   状态: processing
+[21:53:17]   状态: processing
+[21:53:27]   状态: processing
+[21:53:37]   状态: success
+[21:53:37] 下载到 /Users/stevensmac/GMI Wolf/output/wave2/S06_v2.mp4
+[21:53:38]   完成 (9.71 MB)
+[21:53:38] 尾帧已保存: /Users/stevensmac/GMI Wolf/output/wave2/frames/S06_v2_last.png
+[21:53:38] 耗时 268s

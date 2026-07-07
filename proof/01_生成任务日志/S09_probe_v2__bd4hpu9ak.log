@@ -1,0 +1,35 @@
+[16:29:47] 提交任务 [happyhorse-1.1-r2v] (duration=12s, res=1080P, neg=170chars, refs=4)
+[16:29:49]   request_id = e7acdd86-edf8-42fe-8ce5-326fc3242ad1, 初始状态 = queued
+[16:29:49]   状态: processing
+[16:29:59]   状态: processing
+[16:30:09]   状态: processing
+[16:30:20]   状态: processing
+[16:30:30]   状态: processing
+[16:30:40]   状态: processing
+[16:30:50]   状态: processing
+[16:31:00]   状态: processing
+[16:31:11]   状态: processing
+[16:31:21]   状态: processing
+[16:31:31]   状态: processing
+[16:31:41]   状态: processing
+[16:31:51]   状态: processing
+[16:32:02]   状态: processing
+[16:32:12]   状态: processing
+[16:32:22]   状态: processing
+[16:32:32]   状态: processing
+[16:32:42]   状态: processing
+[16:32:53]   状态: processing
+[16:33:03]   状态: processing
+[16:33:13]   状态: processing
+[16:33:23]   状态: processing
+[16:33:33]   状态: processing
+[16:33:44]   状态: processing
+[16:33:54]   状态: processing
+[16:34:04]   状态: processing
+[16:34:14]   状态: processing
+[16:34:25]   状态: processing
+[16:34:35]   状态: success
+[16:34:35] 下载到 output/probes/S09_probe_v2.mp4
+[16:34:35]   完成 (4.99 MB)
+[16:34:36] 尾帧已保存: output/probes/frames/S09_probe_v2_last.png
+[16:34:36] 耗时 288s

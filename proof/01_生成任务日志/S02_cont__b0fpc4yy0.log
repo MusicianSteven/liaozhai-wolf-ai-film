@@ -1,0 +1,31 @@
+[19:47:49] 提交任务 [happyhorse-1.1-i2v] (duration=10s, res=1080P, neg=216chars, first_frame=base64)
+[19:47:59]   request_id = 3077bb51-620d-41bf-bd51-c3e783d7c98d, 初始状态 = queued
+[19:48:00]   状态: queued
+[19:48:11]   状态: processing
+[19:48:22]   状态: processing
+[19:48:33]   状态: processing
+[19:48:44]   状态: processing
+[19:48:55]   状态: processing
+[19:49:08]   状态: processing
+[19:49:19]   状态: processing
+[19:49:33]   状态: processing
+[19:49:45]   状态: processing
+[19:49:55]   状态: processing
+[19:50:07]   状态: processing
+[19:50:18]   状态: processing
+[19:50:29]   状态: processing
+[19:50:41]   状态: processing
+[19:50:52]   状态: processing
+[19:51:03]   状态: processing
+[19:51:13]   状态: processing
+[19:51:24]   状态: processing
+[19:51:35]   状态: processing
+[19:51:47]   状态: processing
+[19:51:57]   状态: processing
+[19:52:10]   状态: processing
+[19:52:21]   状态: processing
+[19:52:32]   状态: success
+[19:52:32] 下载到 output/wave2/S02_cont.mp4
+[19:52:33]   完成 (6.79 MB)
+[19:52:33] 尾帧已保存: output/wave2/frames/S02_cont_last.png
+[19:52:33] 耗时 284s
