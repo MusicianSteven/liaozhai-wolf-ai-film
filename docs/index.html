@@ -1,4 +1,4 @@
-<title>《狼》AI 水墨默片 · 制作方法讲演</title>
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><title>《狼》AI 水墨默片 · 制作方法讲演</title>
 <style>
   :root {
     --paper: #EAE2CF;
@@ -389,13 +389,39 @@
   .drawer .dt { margin: 0; max-width: 62em; font-size: 16px; line-height: 1.9; }
 
   @media (max-width: 860px) {
+    body { font-size: 16px; }
+    .deck { inset: 0 0 68px 0; }
     .slide { grid-template-columns: 1fr; }
     .rail { display: none; }
-    .content { padding: 30px 24px 70px; }
+    .content { padding: 26px 20px 80px; }
     .cols, .cols3 { grid-template-columns: 1fr; }
-    .cover .sealimg { right: -60px; width: 70px; height: 70px; }
+    .cover .sealimg { right: -48px; width: 62px; height: 62px; }
+    .cover .wolfchar { font-size: clamp(120px, 24vh, 200px); }
+    .cover .meta { flex-wrap: wrap; justify-content: center; gap: 8px 18px; }
+    .cover .hint { display: none; }
+    .hud {
+      height: 68px;
+      gap: 10px;
+      padding: 0 12px;
+      padding-bottom: env(safe-area-inset-bottom, 0);
+    }
+    .hud button {
+      font-size: 17px;
+      padding: 12px 18px;
+      min-height: 48px;
+    }
+    .counter { min-width: 0; font-size: 13.5px; }
+    .progress { min-width: 30px; }
+    .drawer { bottom: 68px; max-height: 52vh; padding: 14px 18px 16px; }
+    .drawer .dt { font-size: 15.5px; }
+    .end .qrbox { flex-direction: column; align-items: flex-start; }
   }
-</style>
+  @media (max-width: 480px) {
+    .btxt { display: none; }
+    .hud button { padding: 12px 20px; font-size: 20px; }
+    #noteBtn { font-size: 15px; }
+  }
+</style></head><body>
 
 <div class="deck" id="deck">
 
@@ -735,10 +761,10 @@
 </div>
 
 <footer class="hud">
-  <button id="prev" aria-label="上一页">← 上一页</button>
+  <button id="prev" aria-label="上一页">←<span class="btxt"> 上一页</span></button>
   <div class="progress" aria-hidden="true"><i id="bar" style="width:0%"></i></div>
   <span class="counter kai" id="counter">封面 / 十四</span>
-  <button id="next" aria-label="下一页">下一页 →</button>
+  <button id="next" aria-label="下一页"><span class="btxt">下一页 </span>→</button>
   <button id="noteBtn" aria-expanded="false" aria-controls="drawer">讲稿 N</button>
 </footer>
 
@@ -779,6 +805,19 @@
   document.getElementById('next').addEventListener('click', () => show(cur + 1));
   noteBtn.addEventListener('click', () => toggleNotes());
 
+  let tx = null, ty = null;
+  document.addEventListener('touchstart', (e) => {
+    if (e.target.closest('.hud, .drawer, video, a, button')) { tx = null; return; }
+    tx = e.touches[0].clientX; ty = e.touches[0].clientY;
+  }, { passive: true });
+  document.addEventListener('touchend', (e) => {
+    if (tx === null) return;
+    const dx = e.changedTouches[0].clientX - tx;
+    const dy = e.changedTouches[0].clientY - ty;
+    tx = null;
+    if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) show(dx < 0 ? cur + 1 : cur - 1);
+  }, { passive: true });
+
   document.addEventListener('keydown', (e) => {
     if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') { e.preventDefault(); show(cur + 1); }
     else if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); show(cur - 1); }
@@ -790,3 +829,5 @@
 
   show(0);
 </script>
+
+</body></html>
