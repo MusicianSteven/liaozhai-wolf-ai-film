@@ -8,6 +8,11 @@
 **视频直链:[wolf_liaozhai_inkwash_1080P.mp4](https://github.com/MusicianSteven/liaozhai-wolf-ai-film/releases/download/v1.0/wolf_liaozhai_inkwash_1080P.mp4)**
 (125MB 超过 GitHub 100MB 单文件限制,作为 [Release v1.0](https://github.com/MusicianSteven/liaozhai-wolf-ai-film/releases/tag/v1.0) 附件发布)
 
+## 🎞️ 制作方法讲演幻灯片
+
+**在线观看:[musiciansteven.github.io/liaozhai-wolf-ai-film](https://musiciansteven.github.io/liaozhai-wolf-ai-film/)**
+(16 页,含讲解脚本(按 N 呼出)、S12 可播放片段与实拍对比证据)
+
 ## 📄 提交材料
 
 | 文件/目录 | 内容 |
